@@ -1,0 +1,13 @@
+C:\Users\usuario\Desktop\VetorProduto\VetorProduto\bin\Debug\netcoreapp3.1\VetorProduto.exe
+C:\Users\usuario\Desktop\VetorProduto\VetorProduto\bin\Debug\netcoreapp3.1\VetorProduto.deps.json
+C:\Users\usuario\Desktop\VetorProduto\VetorProduto\bin\Debug\netcoreapp3.1\VetorProduto.runtimeconfig.json
+C:\Users\usuario\Desktop\VetorProduto\VetorProduto\bin\Debug\netcoreapp3.1\VetorProduto.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\VetorProduto\VetorProduto\bin\Debug\netcoreapp3.1\VetorProduto.dll
+C:\Users\usuario\Desktop\VetorProduto\VetorProduto\bin\Debug\netcoreapp3.1\VetorProduto.pdb
+C:\Users\usuario\Desktop\VetorProduto\VetorProduto\obj\Debug\netcoreapp3.1\VetorProduto.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\VetorProduto\VetorProduto\obj\Debug\netcoreapp3.1\VetorProduto.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\VetorProduto\VetorProduto\obj\Debug\netcoreapp3.1\VetorProduto.AssemblyInfo.cs
+C:\Users\usuario\Desktop\VetorProduto\VetorProduto\obj\Debug\netcoreapp3.1\VetorProduto.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\VetorProduto\VetorProduto\obj\Debug\netcoreapp3.1\VetorProduto.dll
+C:\Users\usuario\Desktop\VetorProduto\VetorProduto\obj\Debug\netcoreapp3.1\VetorProduto.pdb
+C:\Users\usuario\Desktop\VetorProduto\VetorProduto\obj\Debug\netcoreapp3.1\VetorProduto.genruntimeconfig.cache

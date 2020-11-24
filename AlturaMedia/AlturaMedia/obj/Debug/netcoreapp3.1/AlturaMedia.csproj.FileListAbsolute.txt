@@ -1,0 +1,13 @@
+C:\Users\usuario\Desktop\vetores\AlturaMedia\AlturaMedia\bin\Debug\netcoreapp3.1\AlturaMedia.exe
+C:\Users\usuario\Desktop\vetores\AlturaMedia\AlturaMedia\bin\Debug\netcoreapp3.1\AlturaMedia.deps.json
+C:\Users\usuario\Desktop\vetores\AlturaMedia\AlturaMedia\bin\Debug\netcoreapp3.1\AlturaMedia.runtimeconfig.json
+C:\Users\usuario\Desktop\vetores\AlturaMedia\AlturaMedia\bin\Debug\netcoreapp3.1\AlturaMedia.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\vetores\AlturaMedia\AlturaMedia\bin\Debug\netcoreapp3.1\AlturaMedia.dll
+C:\Users\usuario\Desktop\vetores\AlturaMedia\AlturaMedia\bin\Debug\netcoreapp3.1\AlturaMedia.pdb
+C:\Users\usuario\Desktop\vetores\AlturaMedia\AlturaMedia\obj\Debug\netcoreapp3.1\AlturaMedia.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\vetores\AlturaMedia\AlturaMedia\obj\Debug\netcoreapp3.1\AlturaMedia.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\vetores\AlturaMedia\AlturaMedia\obj\Debug\netcoreapp3.1\AlturaMedia.AssemblyInfo.cs
+C:\Users\usuario\Desktop\vetores\AlturaMedia\AlturaMedia\obj\Debug\netcoreapp3.1\AlturaMedia.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\vetores\AlturaMedia\AlturaMedia\obj\Debug\netcoreapp3.1\AlturaMedia.dll
+C:\Users\usuario\Desktop\vetores\AlturaMedia\AlturaMedia\obj\Debug\netcoreapp3.1\AlturaMedia.pdb
+C:\Users\usuario\Desktop\vetores\AlturaMedia\AlturaMedia\obj\Debug\netcoreapp3.1\AlturaMedia.genruntimeconfig.cache
